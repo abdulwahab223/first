@@ -327,7 +327,7 @@ class _ExpanceTrackerState extends State<ExpanceTracker> {
                                         title: Text(
                                           myuser,
                                           style: GoogleFonts.poppins(
-                                            color: Colors.white,
+                                            color: Colors.green,
                                           ),
                                         ),
                                         trailing: IconButton(
