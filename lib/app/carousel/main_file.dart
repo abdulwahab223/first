@@ -44,7 +44,7 @@ class _MainFileState extends State<MainFile> {
                 onPressed: () {
                   myCarouselCont.previousPage();
                 },
-                child: Text("Previous Page"),
+                child: Text("Previous Pagee"),
               ),
               ElevatedButton(
                 onPressed: () {

@@ -16,8 +16,8 @@ class _Page1State extends State<Page1> {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
-              const Color.fromARGB(255, 56, 26, 104),
-              const Color.fromARGB(255, 22, 19, 19),
+              const Color.fromARGB(255, 218, 235, 159),
+              const Color.fromARGB(255, 255, 255, 255),
             ],
           ),
         ),
